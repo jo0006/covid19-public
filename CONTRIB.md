@@ -28,7 +28,7 @@ MOH COVID-19 self hosted NodeJS Restful API server, by [Li Wei Lee](https://tech
 
 # Data Requests
 
-_Please submit a pull request here if you would like to request more data. Our team will constantly review it, and provide as much as is feasible to rigorously and consistently maintain._
+_Please submit a pull request here if you would like to request more data. Our team will constantly review it, and provide as much as is feasible to rigorously and consistently maintain._ For the file cases_malaysia, please add the field "dose3".
 
 ### Cases and Testing
 
